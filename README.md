@@ -1,6 +1,6 @@
 # 🏆 AI Business Intelligence
 
-# 🏆 AI Business Intelligence
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
@@ -13,7 +13,7 @@
 
 > **An end-to-end Business Intelligence platform for automated data cleaning, exploratory analysis, visualization, forecasting, AI-powered insights, and business reporting.**
 
-> **An end-to-end Business Intelligence platform for automated data cleaning, exploratory analysis, visualization, forecasting, AI-powered insights, and business reporting.**
+
 
 AI Business Intelligence is an end-to-end Business Intelligence dashboard built with **Python and Streamlit**.
 
