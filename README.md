@@ -1,5 +1,17 @@
 # 🏆 AI Business Intelligence
 
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-013243?logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visualization-3F4F75?logo=plotly&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+
+> **An end-to-end Business Intelligence platform for automated data cleaning, exploratory analysis, visualization, forecasting, AI-powered insights, and business reporting.**
+
 AI Business Intelligence is an end-to-end Business Intelligence dashboard built with **Python and Streamlit**.
 
 It transforms raw CSV datasets into structured, meaningful, and decision-ready business insights through automated data cleaning, data quality assessment, exploratory data analysis, visualization, outlier detection, correlation analysis, forecasting, AI-generated insights, and downloadable business reports.
